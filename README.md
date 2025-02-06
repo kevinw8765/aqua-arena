@@ -10,3 +10,5 @@ Implemented with Roblox Studio and Lua programming language
 - Animations
 - 3D Models using Blender
 - Code in Lua
+
+*Most of the Lua scripts are provided in this repository*
